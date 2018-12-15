@@ -7,19 +7,6 @@ This repository will contain most of the shortcuts to use in Android Studio to m
 |Action |Windows/Linux |Mac |
 |--- |--- |--- |
 |Save all|Control + S|Command + S|
-|Synchronize|	Control + Alt + Y|	Command + Option + Y|
-|Maximize/minimize editor|	Control + Shift + F12|	Control + Command + F12|
-|Add to favorites|	Alt + Shift + F|	Option + Shift + F|
-|Inspect current file with current profile|	Alt + Shift + I|	Option + Shift + I|
-|Quick switch scheme|	Control + ` (backquote)|	Control + ` (backquote)|
-|Open settings dialogue|	Control + Alt + S|	Command + , (comma)|
-|Open project structure dialog|	Control + Alt + Shift + S|	Command + ; (semicolon)|
-|Switch between tabs and tool window|	Control + Tab|	Control + Tab|
-
-
-|Action |Windows/Linux |Mac |
-|--- |--- |--- |
-|Save all|Control + S|Command + S|
 |Synchronize|Control + Alt + Y|Command + Option + Y|
 |Maximize/minimize editor|Control + Shift + F12|Control + Command + F12|
 |Add to favorites|Alt + Shift + F|Option + Shift + F|
